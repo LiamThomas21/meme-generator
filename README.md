@@ -6,5 +6,5 @@
 - Fun for everyone
 - Upload your own images, add text captions, and generate hilarious memes in no time
 
-  ![Output](https://github.com/LiamThomas21/meme-generator/preview.jpg)
+  ![Output](https://github.com/LiamThomas21/meme-generator/blob/main/preview.jpg)
 
